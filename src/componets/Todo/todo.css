@@ -1,0 +1,27 @@
+.add_section {
+    display: flex;
+    width: 780px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.add_section input {
+    padding: 7px 15px;
+    font-size: 120%;
+    line-height: 1.25em;
+    border: 1px solid #666;
+}
+
+.add_section button {
+    border: 1px solid #666;
+    border-left: none;
+    padding: 7px 20px;
+    font-size: 120%;
+    line-height: 1.25em;
+    background: transparent;
+}
+
+.add_section button:hover {
+    background: #f2f2f2;
+    cursor: pointer;
+}

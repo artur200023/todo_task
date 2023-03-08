@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "title": "",
+      "body": "",
+      "id": 1678229289935
+    },
+    {
+      "title": "asdasd",
+      "body": "asdasd",
+      "id": 1678229302118
+    },
+    {
+      "id": 1678229309447,
+      "title": "barev dzez"
+    },
+    {
+      "id": 1678229359871,
+      "title": "aasdasd"
+    },
+    {
+      "id": 1678229409479,
+      "title": "dasdasd"
+    },
+    {
+      "id": 1678229435815,
+      "title": "dasdasd"
+    },
+    {
+      "id": 1678229597199,
+      "title": "asdasd"
+    },
+    {
+      "id": 1678229662516,
+      "title": "sdf"
+    },
+    {
+      "id": 1678230050900,
+      "title": "werwerwer"
+    },
+    {
+      "title": "asdasd",
+      "body": "asdasdasdasdasdasd",
+      "id": 1678230290666
+    },
+    {
+      "id": 1678242600379,
+      "title": "dasdasd"
+    },
+    {
+      "title": "Artur",
+      "body": "Zadelyan",
+      "id": 1678242617248
+    },
+    {
+      "id": 1678242625351,
+      "title": "Artur"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
